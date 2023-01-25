@@ -410,10 +410,8 @@ main {
   }
 }
 
-.conhecimentos .conhecimentos-list {
-    float: left;
-    margin: auto;
-}
+.conhecimentos section {
+    justify-content: center;}
 
 .projetos .descricao {
   font-size: 1rem;
